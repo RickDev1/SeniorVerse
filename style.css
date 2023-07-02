@@ -255,3 +255,500 @@ a:hover {
 .arw {
     margin-top: -195%;
 }
+
+/* tab */
+@media screen and (max-width:1400px) {
+    .s1 {
+        background-color: white;
+        margin-top: -8px;
+        width: 100%;
+        position: sticky;
+        top: 0px;
+    }
+
+    .sv1 {
+        background: #2459F2;
+        background: linear-gradient(to right, #2459F2 0%, #8C32F2 30%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        margin-top: -7px;
+        font-size: 20px;
+        width: 350%;
+        margin-left: 10px;
+
+    }
+
+    .nav1 {
+        display: flex;
+
+        box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+
+    }
+
+    .nav2 {
+        display: flex;
+        padding-left: 50%;
+
+    }
+
+    .img1 {
+        width: 50px;
+        margin-left: -20px;
+        margin-right: 3px;
+        height: 50px;
+        border-radius: 50px;
+        margin-top: 10px;
+    }
+
+    .create1 {
+        margin-top: 20px;
+        margin-left: -85px;
+        padding-right: 5px;
+
+    }
+
+    .search1 {
+        margin-top: 20px;
+        height: 10px;
+
+    }
+
+    .btn1 {
+        background-color: blue;
+        border: none;
+        height: 30px;
+        width: 100px;
+        color: white;
+        font-weight: 600;
+        border-radius: 10px;
+
+    }
+
+    .btn1:hover {
+        background-color: rgb(6, 62, 135);
+    }
+
+    .srch {
+        height: 30px;
+        border-radius: 10px;
+        width: 80px;
+
+        margin-left: -170px;
+
+
+        background-color: #C0EAED;
+    }
+
+
+    .srch:hover {
+        background-color: #e6eced;
+    }
+
+    /* navEnd */
+    /* mainStart */
+    .profile1 {
+        display: flex;
+        background-color: white;
+        margin-top: 30px;
+        margin-right: 83%;
+        border-radius: 5px;
+        height: 80px;
+        box-shadow: rgba(17, 17, 26, 0.05) 0px 4px 16px, rgba(17, 17, 26, 0.05) 0px 8px 32px;
+    }
+
+    .img2 {
+        width: 60px;
+        height: 60px;
+        margin-left: -10px;
+        margin-top: 10px;
+        border-radius: 10px;
+    }
+
+    .txt2 {
+        margin-left: 10px;
+
+    }
+
+    .p1 {
+        margin-top: -20px;
+        color: gray;
+        display: none;
+    }
+
+    .li1 {
+        display: grid;
+
+    }
+
+    a {
+        text-decoration: none;
+        color: black;
+        padding-bottom: 30px;
+        padding-left: 20px;
+        font-size: 18px;
+
+
+    }
+
+    a:hover {
+        color: blue;
+        font-size: 19px;
+
+    }
+
+
+    .profile2 {
+        background-color: white;
+        margin-top: 30px;
+        margin-right: 83%;
+        border-radius: 5px;
+        height: 580px;
+        box-shadow: rgba(17, 17, 26, 0.05) 0px 4px 16px, rgba(17, 17, 26, 0.05) 0px 8px 32px;
+    }
+
+    .fa-microphone {
+        font-size: 25px;
+        background-color: #C0EAED;
+        margin-left: 20px;
+        padding: 20px 25px 20px 25px;
+        border-radius: 50px;
+    }
+
+    .fa-microphone:hover {
+        font-size: 35px;
+        background-color: #64eff9;
+    }
+
+    .p3 {
+
+        display: none;
+    }
+
+    /* mainsecEnd */
+    /* myDay start */
+    .pic2 {
+        width: 12%;
+        height: 120px;
+        margin-left: 10px;
+
+        border-radius: 8px;
+        border: 6px solid white;
+    }
+
+    .pic2:hover {
+        border: 8px solid rgb(78, 106, 245);
+    }
+
+    .myday {
+
+        margin-top: -77.5%;
+    }
+
+    /* post */
+    .post1 {
+
+        padding-left: 180px;
+        border-radius: 10px;
+
+    }
+
+    .pic3 {
+        border-radius: 10px;
+        width: 60%;
+        margin-top: 30px;
+
+    }
+
+    /* req */
+    .req {
+
+        margin-top: -127%;
+
+
+    }
+
+
+    .pic4 {
+        width: 95%;
+        border-radius: 10px;
+    }
+
+    .cont {
+        padding-left: 73%;
+        margin-top: 20px;
+
+    }
+
+    .pic5 {
+        width: 95%;
+    }
+
+
+    .fa-arrow-right {
+        font-size: 15px;
+        background-color: #41cdd7;
+        margin-left: 400%;
+
+        padding: 20px 20px 20px 20px;
+        border-radius: 60px;
+    }
+
+    .fa-arrow-right:hover {
+        font-size: 20px;
+        background-color: #068c96;
+    }
+
+    .arw {
+        margin-top: -300%;
+        margin-left: -26px;
+    }
+}
+
+/* mobile */
+@media screen and (max-width:800px) {
+    .s1 {
+        background-color: white;
+        margin-top: -8px;
+        width: 100%;
+        position: sticky;
+        top: 0px;
+    }
+
+    .sv1 {
+        background: #2459F2;
+        background: linear-gradient(to right, #2459F2 0%, #8C32F2 30%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        margin-top: -7px;
+        font-size: 20px;
+        width: 350%;
+        margin-left: 10px;
+
+    }
+
+    .nav1 {
+        display: flex;
+
+        box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+
+    }
+
+    .nav2 {
+        display: flex;
+        padding-left: 50%;
+
+    }
+
+    .img1 {
+        width: 50px;
+        margin-left: -20px;
+        margin-right: 3px;
+        height: 50px;
+        border-radius: 50px;
+        margin-top: 10px;
+    }
+
+    .create1 {
+        margin-top: 20px;
+        margin-left: -85px;
+        padding-right: 5px;
+
+    }
+
+    .search1 {
+        margin-top: 20px;
+        height: 10px;
+
+    }
+
+    .btn1 {
+        background-color: blue;
+        border: none;
+        height: 30px;
+        width: 100px;
+        color: white;
+        font-weight: 600;
+        border-radius: 10px;
+
+    }
+
+    .btn1:hover {
+        background-color: rgb(6, 62, 135);
+    }
+
+    .srch {
+        height: 30px;
+        border-radius: 10px;
+        width: 80px;
+
+        margin-left: -170px;
+
+
+        background-color: #C0EAED;
+    }
+
+
+    .srch:hover {
+        background-color: #e6eced;
+    }
+
+    /* navEnd */
+    /* mainStart */
+    .profile1 {
+        display: flex;
+        background-color: white;
+        margin-top: 30px;
+        margin-right: 83%;
+        border-radius: 5px;
+        height: 80px;
+        box-shadow: rgba(17, 17, 26, 0.05) 0px 4px 16px, rgba(17, 17, 26, 0.05) 0px 8px 32px;
+    }
+
+    .img2 {
+        width: 60px;
+        height: 60px;
+        margin-left: -10px;
+        margin-top: 10px;
+        border-radius: 10px;
+    }
+
+    .txt2 {
+        margin-left: 10px;
+        display: none;
+    }
+
+    .p1 {
+        margin-top: -20px;
+        color: gray;
+        display: none;
+    }
+
+    .li1 {
+        display: grid;
+
+    }
+
+    a {
+        text-decoration: none;
+        color: black;
+        padding-bottom: 30px;
+        padding-left: 20px;
+        font-size: 18px;
+
+
+    }
+
+    a:hover {
+        color: blue;
+        font-size: 19px;
+
+    }
+
+
+    .profile2 {
+        background-color: white;
+        margin-top: 30px;
+        margin-right: 83%;
+        border-radius: 5px;
+        height: 580px;
+        box-shadow: rgba(17, 17, 26, 0.05) 0px 4px 16px, rgba(17, 17, 26, 0.05) 0px 8px 32px;
+    }
+
+    .fa-microphone {
+        font-size: 25px;
+        background-color: #C0EAED;
+        margin-left: 3px;
+        padding: 20px 25px 20px 25px;
+        border-radius: 50px;
+    }
+
+    .fa-microphone:hover {
+        font-size: 35px;
+        background-color: #64eff9;
+    }
+
+    .p3 {
+
+        display: none;
+    }
+
+    /* mainsecEnd */
+    /* myDay start */
+    .pic2 {
+        width: 15%;
+        height: 80px;
+        margin-left: 10px;
+
+        border-radius: 8px;
+        border: 6px solid white;
+    }
+
+    .pic2:hover {
+        border: 8px solid rgb(78, 106, 245);
+    }
+
+    .myday {
+
+        margin-top: -148%;
+    }
+
+    /* post */
+    .post1 {
+
+        padding-left: 100px;
+        border-radius: 10px;
+
+    }
+
+    .pic3 {
+        border-radius: 10px;
+        width: 100%;
+        margin-top: 18px;
+
+    }
+
+    /* req */
+    .req {
+        padding-left: 73%;
+        margin-top: -123.5%;
+        display: none;
+
+    }
+
+
+    .pic4 {
+        border-radius: 10px;
+    }
+
+    .cont {
+        padding-left: 73%;
+        margin-top: 20px;
+        display: none;
+    }
+
+    .pic5 {
+        width: 95%;
+    }
+
+
+    .fa-arrow-right {
+        font-size: 15px;
+        background-color: #41cdd7;
+        margin-left: 400%;
+
+        padding: 20px 20px 20px 20px;
+        border-radius: 60px;
+    }
+
+    .fa-arrow-right:hover {
+        font-size: 20px;
+        background-color: #068c96;
+    }
+
+    .arw {
+        margin-top: -800%;
+        margin-left: -33.5px;
+    }
+
+
+}
