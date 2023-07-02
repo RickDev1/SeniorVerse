@@ -1,0 +1,28 @@
+.Cpic1 {
+    width: 35%;
+    height: 718px;
+}
+
+.Cpic2 {
+    width: 35%;
+    height: 718px;
+}
+
+.Cpic3 {
+    width: 35%;
+    height: 718px;
+}
+
+.Cpic4 {
+    width: 35%;
+    height: 718px;
+}
+
+body {
+    background-color: #C0EAED;
+}
+
+img {
+    margin-left: 135px;
+    margin-bottom: 60px;
+}

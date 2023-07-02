@@ -1,0 +1,23 @@
+.Hpic1 {
+    width: 34%;
+
+}
+
+.Hpic2 {
+    width: 35%;
+    height: 788px;
+}
+
+.Hpic3 {
+    width: 35%;
+    height: 718px;
+}
+
+body {
+    background-color: #C0EAED;
+}
+
+img {
+    margin-left: 135px;
+    margin-bottom: 60px;
+}

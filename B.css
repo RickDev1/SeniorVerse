@@ -1,0 +1,28 @@
+.Bpic1 {
+    width: 35%;
+    height: 718px;
+}
+
+.Bpic2 {
+    width: 35%;
+    height: 718px;
+}
+
+.Bpic3 {
+    width: 35%;
+    height: 718px;
+}
+
+.Bpic4 {
+    width: 35%;
+    height: 718px;
+}
+
+body {
+    background-color: #C0EAED;
+}
+
+img {
+    margin-left: 135px;
+    margin-bottom: 60px;
+}
